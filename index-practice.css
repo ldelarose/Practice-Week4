@@ -1,0 +1,24 @@
+body {
+    background-color: burlywood;
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+}
+
+hr {
+    background-color: rgba(173, 96, 7, 0.555);
+}
+
+.favorite-apps {
+    background-color: antiquewhite;
+    width: 200px;
+    height: 200px;
+    margin-left: 10px;
+    
+}
+
+.favorite-apps-title {
+    text-align:center;
+}
